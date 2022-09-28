@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <email>cjeandel2@yelp.com</email>
+        <firstName>Clarence</firstName>
+        <id>3</id>
+        <lastName>Jeandel</lastName>
+    </student>
+    <student>
+        <email>mdevoiels3@hubpages.com</email>
+        <firstName>Michaella</firstName>
+        <id>4</id>
+        <lastName>de Voiels</lastName>
+    </student>
+    <student>
+        <email>kblaxall4@adobe.com</email>
+        <firstName>Kynthia</firstName>
+        <id>5</id>
+        <lastName>Blaxall</lastName>
+    </student>
+    <student>
+        <email>hbidwell5@ebay.com</email>
+        <firstName>Haily</firstName>
+        <id>6</id>
+        <lastName>Bidwell</lastName>
+    </student>
+    <student>
+        <email>ddeeny6@indiegogo.com</email>
+        <firstName>Dawna</firstName>
+        <id>7</id>
+        <lastName>Deeny</lastName>
+    </student>
+    <student>
+        <email>twhitmarsh7@rediff.com</email>
+        <firstName>Torrance</firstName>
+        <id>8</id>
+        <lastName>Whitmarsh</lastName>
+    </student>
+</students>
