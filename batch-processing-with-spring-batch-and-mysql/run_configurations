@@ -1,0 +1,6 @@
+run=three
+a=b
+inputFile=/home/robin/dev/cynoteck/java-training-guide/upload-multiple-csv-to-db-batch-processing/input-files/students.csv
+outputFile=/home/robin/dev/cynoteck/java-training-guide/upload-multiple-csv-to-db-batch-processing/output-files/students.json
+currentItemCount=0
+maxItemCount=1000
